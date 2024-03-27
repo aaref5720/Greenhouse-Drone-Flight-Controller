@@ -4,9 +4,12 @@ This folder contains the PCB (Printed Circuit Board) files for the Greenhouse Dr
 
 ## Contents
 
-- **LaunchPadFlightController_Board_Bottom**: ![Bottom Layer](LaunchPadFlightController_Board_Bottom.png)
-- **LaunchPadFlightController_Board_Top**: ![Top Layer](LaunchPadFlightController_Board_Top.png)
-- **LaunchPadFlightController_Schematic**: ![Schematic](LaunchPadFlightController_Schematic.png)
+- **LaunchPadFlightController_Board_Bottom**:
+ ![Bottom Layer](LaunchPadFlightController_Board_Bottom.png)
+- **LaunchPadFlightController_Board_Top**: 
+![Top Layer](LaunchPadFlightController_Board_Top.png)
+- **LaunchPadFlightController_Schematic**: 
+![Schematic](LaunchPadFlightController_Schematic.png)
 
 ## Notes
 
