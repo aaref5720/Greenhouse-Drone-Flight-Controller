@@ -4,9 +4,9 @@ This folder contains the PCB (Printed Circuit Board) files for the Greenhouse Dr
 
 ## Contents
 
-- **LaunchPadFlightController_Board_Bottom**: ![Bottom Layer](Greenhouse-Drone-Flight-Controller/PCB/LaunchPadFlightController_Board_Bottom.png)
-- **LaunchPadFlightController_Board_Top**: ![Top Layer](Greenhouse-Drone-Flight-Controller/PCB/LaunchPadFlightController_Board_Top.png)
-- **LaunchPadFlightController_Schematic**: ![Schematic](Greenhouse-Drone-Flight-Controller/PCB/LaunchPadFlightController_Schematic.png)
+- **LaunchPadFlightController_Board_Bottom**: ![Bottom Layer](PCB/LaunchPadFlightController_Board_Bottom.png)
+- **LaunchPadFlightController_Board_Top**: ![Top Layer](PCB/LaunchPadFlightController_Board_Top.png)
+- **LaunchPadFlightController_Schematic**: ![Schematic](PCB/LaunchPadFlightController_Schematic.png)
 
 ## Notes
 
