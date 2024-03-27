@@ -63,7 +63,7 @@ All pins are defined in [src/Config.h](src/Config.h) and can be overridden by cr
 - Implement support for the HMC5883L magnetometer.
 - Integrate the optical flow sensor (ADNS3080) into the system.
 - Incorporate support for the Bluetooth module for wireless communication.
-- Develop a mobile application for calibrating the accelerometer and magnetometer.
+- Develop a mobile application for calibrating the accelerometer and magnetometer and tuning PID values.
 
 ## Contributors
 
