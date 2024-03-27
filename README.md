@@ -4,6 +4,8 @@ This repository contains the flight controller code developed for the Greenhouse
 
 The purpose of the flight controller is to operate within a greenhouse, providing essential environmental data and scanning the plant status. The flight controller module focuses on implementing the flight control algorithms and interfaces with various sensors and peripherals.
 
+It is written for the [Tiva C Series TM4C123G LaunchPad](http://www.ti.com/tool/EK-TM4C123GXL) running at 80 MHz.
+
 ## Features
 
 * **Flight Modes:**
