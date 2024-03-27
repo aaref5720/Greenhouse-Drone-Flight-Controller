@@ -64,7 +64,7 @@ All pins are defined in [src/Config.h](src/Config.h) and can be overridden by cr
 - Integrate the optical flow sensor (ADNS3080) into the system.
 - Incorporate support for the Bluetooth module for wireless communication.
 - Develop a mobile application for calibrating the accelerometer and magnetometer and tuning PID values.
-- Add a documentaion for full Greenhouse Drone Flight Controller.
+- Add a documentation for full Greenhouse Drone Flight Controller.
 
 ## Contributors
 
