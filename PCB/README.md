@@ -4,13 +4,11 @@ This folder contains the PCB (Printed Circuit Board) files for the Greenhouse Dr
 
 ## Contents
 
-- **LaunchPadFlightController_Board_Bottom**: Gerber file for the bottom layer of the PCB.
-- **LaunchPadFlightController_Board_Top**: Gerber file for the top layer of the PCB.
-- **LaunchPadFlightController_Schematic**: Schematic file for the PCB design.
-
+- **LaunchPadFlightController_Board_Bottom**: ![Bottom Layer](Greenhouse-Drone-Flight-Controller/PCB/LaunchPadFlightController_Board_Bottom.png)
+- **LaunchPadFlightController_Board_Top**: ![Top Layer](Greenhouse-Drone-Flight-Controller/PCB/LaunchPadFlightController_Board_Top.png)
+- **LaunchPadFlightController_Schematic**: ![Schematic](Greenhouse-Drone-Flight-Controller/PCB/LaunchPadFlightController_Schematic.png)
 ## Notes
 
 - The Bluetooth module and HMC5883L components are not yet added to the flight controller software. However, placeholders have been included in the PCB design to accommodate these components in future revisions.
 
-Feel free to use these PCB files for manufacturing or further development of the Greenhouse Drone Flight Controller project.
-
+Feel free to use these PCB files for manufacturing or further development ofDrone Drone Flight Controller project.
